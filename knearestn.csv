@@ -1,0 +1,11 @@
+id,cgpa,assess,proj,result
+1,8.5,85,9,Pass
+2,7.2,72,8,Pass
+3,5.8,58,6,Pass
+4,4.2,42,5,Fail
+5,9.1,91,10,Pass
+6,6.5,65,7,Pass
+7,3.9,39,4,Fail
+8,8,80,8,Pass
+9,5,50,5,Pass
+10,2.8,28,3,Fail
